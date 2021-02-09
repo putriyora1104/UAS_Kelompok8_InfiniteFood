@@ -1,7 +1,6 @@
 # UAS_Kelompok8_InfiniteFood
 Judul Applikasi
 InfiniteFood
-Latar Belakang
 Indonesia merupakan negara yang terkenal dengan berbagai macam kulinernya. Ada
 banyak sekali makanan khas karena Indonesia terdiri dari berbagai macam adat dan suku.
 Kuliner juga menjadi salah satu faktor penggerak di bidang ekonomi untuk masyarakat dan
